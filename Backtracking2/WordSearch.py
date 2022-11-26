@@ -1,3 +1,5 @@
+#TimeComplexity: O(m*n)
+#SpaceComplexity: O(n)
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
          
